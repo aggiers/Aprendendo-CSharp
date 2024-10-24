@@ -1,0 +1,15 @@
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\obj\Debug\net8.0\ref\Arrays.dll
