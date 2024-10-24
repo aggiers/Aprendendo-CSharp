@@ -1,0 +1,14 @@
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\obj\Debug\net8.0\desafio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\obj\Debug\net8.0\desafio02.AssemblyInfoInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\obj\Debug\net8.0\desafio02.AssemblyInfo.cs
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\obj\Debug\net8.0\desafio02.csproj.CoreCompileInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\bin\Debug\net8.0\desafio02.exe
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\bin\Debug\net8.0\desafio02.deps.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\bin\Debug\net8.0\desafio02.runtimeconfig.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\bin\Debug\net8.0\desafio02.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\bin\Debug\net8.0\desafio02.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\obj\Debug\net8.0\desafio02.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\obj\Debug\net8.0\refint\desafio02.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\obj\Debug\net8.0\desafio02.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\obj\Debug\net8.0\desafio02.genruntimeconfig.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\desafio02\obj\Debug\net8.0\ref\desafio02.dll

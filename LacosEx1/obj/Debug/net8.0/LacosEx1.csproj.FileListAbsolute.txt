@@ -1,0 +1,14 @@
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\obj\Debug\net8.0\LacosEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\obj\Debug\net8.0\LacosEx1.AssemblyInfoInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\obj\Debug\net8.0\LacosEx1.AssemblyInfo.cs
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\obj\Debug\net8.0\LacosEx1.csproj.CoreCompileInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\bin\Debug\net8.0\LacosEx1.exe
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\bin\Debug\net8.0\LacosEx1.deps.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\bin\Debug\net8.0\LacosEx1.runtimeconfig.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\bin\Debug\net8.0\LacosEx1.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\bin\Debug\net8.0\LacosEx1.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\obj\Debug\net8.0\LacosEx1.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\obj\Debug\net8.0\refint\LacosEx1.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\obj\Debug\net8.0\LacosEx1.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\obj\Debug\net8.0\LacosEx1.genruntimeconfig.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\LacosEx1\obj\Debug\net8.0\ref\LacosEx1.dll
