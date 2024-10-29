@@ -1,7 +1,4 @@
-﻿// Faça um programa que carregue dois vetores de 10 elementos
-// numéricos cada um e imprima a intercalação desses dois.
-
-Console.WriteLine(@"
+﻿Console.WriteLine(@"
 +---------------------------------------+
 |              Bem Vindo                |
 |                  Ao                   |
@@ -9,24 +6,19 @@ Console.WriteLine(@"
 +---------------------------------------+
 ");
 
-
-int[] vetor1 = new int[10];
-int[] vetor2 = new int[10];
-int[] vetorIntercalado = new int[20];  
-
-Console.WriteLine("Por gentileza, digite 10 números para o primeiro vetor:");
+int[] vetor1 = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
+int[] vetor2 = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
+int[] vetorIntercalado = [20];  
 
 for (int i = 0; i < 10; i++)
 {
-    Console.Write($"Vetor 1 - Elemento {i + 1}: ");
+    Console.Write(vetor1 [i]);
     vetor1[i] = int.Parse(Console.ReadLine());
 }
 
-Console.WriteLine("Agora, por favor, digite 10 números para o segundo vetor:");
-
 for (int i = 0; i < 10; i++)
 {
-    Console.Write($"Vetor 2 - Elemento {i + 1}: ");
+    Console.Write(vetor2 [i]);
     vetor2[i] = int.Parse(Console.ReadLine());
 }
 
@@ -38,7 +30,6 @@ for (int i = 0, j = 0; i < 10; i++, j += 2)
 }
 
 Console.WriteLine("Vetor intercalado:");
-
 foreach (int num in vetorIntercalado)
 {
     Console.Write(num + " ");

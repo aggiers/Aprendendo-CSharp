@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47688244803\\Desktop\\Aulas - Senai\\aula-back-end\\Arrays\\ArraysEx02\\ArraysEx02.csproj",
+      "projectUniqueName": "C:\\Users\\47688244803\\Desktop\\Aulas - Senai\\aula-back-end\\Arrays\\ArraysDesafio02\\ArraysEx02.csproj",
       "projectName": "ArraysEx02",
-      "projectPath": "C:\\Users\\47688244803\\Desktop\\Aulas - Senai\\aula-back-end\\Arrays\\ArraysEx02\\ArraysEx02.csproj",
+      "projectPath": "C:\\Users\\47688244803\\Desktop\\Aulas - Senai\\aula-back-end\\Arrays\\ArraysDesafio02\\ArraysEx02.csproj",
       "packagesPath": "C:\\Users\\47688244803\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47688244803\\Desktop\\Aulas - Senai\\aula-back-end\\Arrays\\ArraysEx02\\obj\\",
+      "outputPath": "C:\\Users\\47688244803\\Desktop\\Aulas - Senai\\aula-back-end\\Arrays\\ArraysDesafio02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\47688244803\\AppData\\Roaming\\NuGet\\NuGet.Config",
