@@ -1,0 +1,15 @@
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\bin\Debug\net8.0\ForeachDesafio01.exe
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\bin\Debug\net8.0\ForeachDesafio01.deps.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\bin\Debug\net8.0\ForeachDesafio01.runtimeconfig.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\bin\Debug\net8.0\ForeachDesafio01.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\bin\Debug\net8.0\ForeachDesafio01.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\ForeachDesafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\ForeachDesafio01.AssemblyInfoInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\ForeachDesafio01.AssemblyInfo.cs
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\ForeachDesafio01.csproj.CoreCompileInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\ForeachDesafio01.sourcelink.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\ForeachDesafio01.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\refint\ForeachDesafio01.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\ForeachDesafio01.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\ForeachDesafio01.genruntimeconfig.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Foreach\ForeachDesafio01\obj\Debug\net8.0\ref\ForeachDesafio01.dll

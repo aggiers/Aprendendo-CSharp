@@ -1,0 +1,4 @@
+C:\Users\47688244803\Desktop\Aulas - Senai\POO\AtividadeClasses\obj\Debug\net8.0\AtividadeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47688244803\Desktop\Aulas - Senai\POO\AtividadeClasses\obj\Debug\net8.0\AtividadeClasses.AssemblyInfoInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\POO\AtividadeClasses\obj\Debug\net8.0\AtividadeClasses.AssemblyInfo.cs
+C:\Users\47688244803\Desktop\Aulas - Senai\POO\AtividadeClasses\obj\Debug\net8.0\AtividadeClasses.csproj.CoreCompileInputs.cache

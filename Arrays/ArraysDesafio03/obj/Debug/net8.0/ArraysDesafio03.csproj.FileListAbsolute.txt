@@ -1,0 +1,15 @@
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\bin\Debug\net8.0\ArraysDesafio03.exe
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\bin\Debug\net8.0\ArraysDesafio03.deps.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\bin\Debug\net8.0\ArraysDesafio03.runtimeconfig.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\bin\Debug\net8.0\ArraysDesafio03.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\bin\Debug\net8.0\ArraysDesafio03.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\ArraysDesafio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\ArraysDesafio03.AssemblyInfoInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\ArraysDesafio03.AssemblyInfo.cs
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\ArraysDesafio03.csproj.CoreCompileInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\ArraysDesafio03.sourcelink.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\ArraysDesafio03.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\refint\ArraysDesafio03.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\ArraysDesafio03.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\ArraysDesafio03.genruntimeconfig.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\Arrays\ArraysDesafio03\obj\Debug\net8.0\ref\ArraysDesafio03.dll

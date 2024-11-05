@@ -1,4 +1,9 @@
-﻿Console.WriteLine(@"
+﻿// Faça um programa que receba a temperatura média de cada 
+// mês do ano e armazene essas temperaturas em um vetor. 
+// Calcule e imprima a maior e a menor temperatura do ano.
+
+
+Console.WriteLine(@"
 +---------------------------------------+
 |              Bem Vindo                |
 |                  Ao                   |
