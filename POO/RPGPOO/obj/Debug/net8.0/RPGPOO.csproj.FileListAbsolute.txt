@@ -1,0 +1,15 @@
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\RPGPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\RPGPOO.AssemblyInfoInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\RPGPOO.AssemblyInfo.cs
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\RPGPOO.csproj.CoreCompileInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\RPGPOO.sourcelink.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\bin\Debug\net8.0\RPGPOO.exe
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\bin\Debug\net8.0\RPGPOO.deps.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\bin\Debug\net8.0\RPGPOO.runtimeconfig.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\bin\Debug\net8.0\RPGPOO.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\bin\Debug\net8.0\RPGPOO.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\RPGPOO.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\refint\RPGPOO.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\RPGPOO.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\RPGPOO.genruntimeconfig.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\RPGPOO\obj\Debug\net8.0\ref\RPGPOO.dll
