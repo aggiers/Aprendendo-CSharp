@@ -1,0 +1,15 @@
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\Calculador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\Calculador.AssemblyInfoInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\Calculador.AssemblyInfo.cs
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\Calculador.csproj.CoreCompileInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\Calculador.sourcelink.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\bin\Debug\net8.0\Calculador.exe
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\bin\Debug\net8.0\Calculador.deps.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\bin\Debug\net8.0\Calculador.runtimeconfig.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\bin\Debug\net8.0\Calculador.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\bin\Debug\net8.0\Calculador.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\Calculador.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\refint\Calculador.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\Calculador.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\Calculador.genruntimeconfig.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\Calculador\obj\Debug\net8.0\ref\Calculador.dll

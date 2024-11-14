@@ -1,5 +1,4 @@
 ﻿
-Line();
 using AtividadeClasses.veículo;
 Console.Clear();
 
@@ -12,6 +11,7 @@ bmwX6.marca = Console.ReadLine();
 
 Console.WriteLine($"Qual é o modelo?");
 bmwX6.modelo = Console.Read
+
 Console.WriteLine($"Qual é a cor?");
 bmwX6.cor = Console.ReadLine();
 

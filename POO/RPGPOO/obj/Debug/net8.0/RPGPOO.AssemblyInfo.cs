@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPGPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e8a504587c842010f264387cd5e286951194a74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d317e7a4f58e9c6417a5cfd34175f8764729241")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPGPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPGPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
