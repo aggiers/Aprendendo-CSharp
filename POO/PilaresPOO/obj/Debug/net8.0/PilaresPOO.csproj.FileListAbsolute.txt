@@ -1,0 +1,15 @@
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\PilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\PilaresPOO.AssemblyInfoInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\PilaresPOO.AssemblyInfo.cs
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\PilaresPOO.csproj.CoreCompileInputs.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\PilaresPOO.sourcelink.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\bin\Debug\net8.0\PilaresPOO.exe
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\bin\Debug\net8.0\PilaresPOO.deps.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\bin\Debug\net8.0\PilaresPOO.runtimeconfig.json
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\bin\Debug\net8.0\PilaresPOO.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\bin\Debug\net8.0\PilaresPOO.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\PilaresPOO.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\refint\PilaresPOO.dll
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\PilaresPOO.pdb
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\PilaresPOO.genruntimeconfig.cache
+C:\Users\47688244803\Desktop\Aulas - Senai\aula-back-end\POO\PilaresPOO\obj\Debug\net8.0\ref\PilaresPOO.dll

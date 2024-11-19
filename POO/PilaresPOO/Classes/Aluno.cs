@@ -1,12 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Dynamic;
 
 namespace PilaresPOO.Classes
 {
-    public class Aluno
+    public class Aluno : Pessoa
     {
-        
+        public int Matricula { get; set; }
+        public string ? Curso { get; set; }
+        public float Media { get; set; }
     }
 }
